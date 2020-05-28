@@ -181,13 +181,6 @@ footer nav a {
 /*on tablet*/
 
 @media (max-width:800px){
-    /*header a {
-        /*font-size: smaller;
-        max-width:50%;
-        display: flex;
-        align-items: flex-end;
-        margin-top:2%;
-    }*/
 
         body {
             background-color : cornsilk;
@@ -212,7 +205,6 @@ footer nav a {
         }
             div.boxes{
                 display: flex;
-                /* flex-wrap: wrap;  */
                 flex-direction: column;
                 height: 100vh;
                 background-color: aquamarine;
@@ -230,12 +222,12 @@ footer nav a {
             flex-direction: column;
             width: 70%;
             font-size: 0.9rem;
-            /* justify-content: space-evenly; */
+          
         }
             div .text-container{
                 display: flex;
                 flex-wrap: wrap;
-                /* flex-direction: row; */
+               
             }
         
         
@@ -260,9 +252,7 @@ footer nav a {
             display: flex;
             justify-content: space-evenly;
             width: 80%;
-            /**padding: 0 0.1%;
-            padding-top: 3px;
-            padding-bottom: 6px;*/
+        
            
         }
        
